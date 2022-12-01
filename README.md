@@ -1,14 +1,14 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou  Guilherme Lara</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guilaradev&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devguilara&color=yellow" alt="Profile views" /> </p>
 
 
 <br><br>
 <p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=guilaradev&show_icons=true&theme=vision-friendly-dark" alt="guilaradev stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=devguilara&show_icons=true&theme=vision-friendly-dark" alt="devguilara stats"/>
 
 <br><br>
 
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilaradev&layout=compact&theme=vision-friendly-dark" alt="guilaradev "/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devguilara&layout=compact&theme=vision-friendly-dark" alt="devguilara "/>
 
 
 </p>
