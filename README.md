@@ -1,4 +1,4 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou  Guilherme Lara</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Guilherme Lara</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devguilara&color=yellow" alt="Profile views" /> </p>
 
 
@@ -17,11 +17,11 @@
 
 
 
-- 🔥 Desenvolvedor Back End
+- 🔥 Desenvolvedor FrontEnd
 
-- 👨‍💻 Veja meus projetos em :  [guilhermerdev.io](https://guilaradev.github.io/guilhermerdev.io/) e meu [Linkedin](https://www.linkedin.com/in/guilaradev/)
+- 👨‍💻 Veja meus projetos em: [guilhermerdev.io](https://devguilara.github.io/devguilara.io/) e meu [Linkedin](https://www.linkedin.com/in/guilaradev/)
 
-- 💬 Me pergunte sobre :  **JavaScript, SQL, PHP, PYTHON, JAVA, AWS**
+- 💬 Me pergunte sobre: ** JavaScript | PHP | ReactJs | SASS | NodeJs**
 
 - ⚡ Sempre em busca de novos conhecimentos 
 
@@ -30,12 +30,10 @@
 ## 🛠 &nbsp;Minhas linguagens
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=1572B6)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)&nbsp;
 
 <br><br>
