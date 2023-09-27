@@ -32,7 +32,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-dotnet-05122A?style=flat&logo=dotnet&logoColor=1572B6)&nbsp;
+![CSS](https://img.shields.io/badge/-dotnet-05122A?style=flat&logo=.Net&logoColor=1572B6)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=1572B6)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)&nbsp;
 
