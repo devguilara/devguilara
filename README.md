@@ -51,7 +51,7 @@
  <img align="center" src="https://img.shields.io/badge/-guilaradev-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-<img width="500em" src="https://i.gifer.com/39Cg.gif" />
+
 <br><br>
 
-
+<img width="500em" src="200w.gif" />
