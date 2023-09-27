@@ -1,4 +1,4 @@
-<h1 align="left">Olá <img src="hi.gif" width="30px">, Eu sou Guilherme Lara</h1>
+<h1 align="left">Olá <img src="giphy.gif" width="30px">, Eu sou Guilherme Lara</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devguilara&color=yellow" alt="Profile views" /> </p>
 
 
