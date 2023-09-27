@@ -27,7 +27,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;Minhas linguagens
+## 🛠 &nbsp;Habilidades
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python.js](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
