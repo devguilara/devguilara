@@ -17,11 +17,11 @@
 
 
 
-- 🔥 Desenvolvedor FrontEnd
+- 🔥 Desenvolvedor Front e Back-end
 
 - 👨‍💻 Veja meus projetos em: [guilhermerdev.io](https://devguilara.github.io/devguilara.io/) e meu [Linkedin](https://www.linkedin.com/in/guilaradev/)
 
-- 💬 Me pergunte sobre: ** JavaScript | PHP | ReactJs | SASS | NodeJs**
+- 💬 Me pergunte sobre: ** JavaScript | PHP | Java | C# **
 
 - ⚡ Sempre em busca de novos conhecimentos 
 
