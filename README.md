@@ -30,11 +30,12 @@
 ## 🛠 &nbsp;Minhas linguagens
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-dotnet-05122A?style=flat&logo=.Net&logoColor=1572B6)&nbsp;
+![Python.js](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![DOTNET](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.Net&logoColor=1572B6)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=1572B6)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 
 <br><br>
 
@@ -43,16 +44,14 @@
 
 <p align="left">
 
-<a href="https://twitter.com/guilaradev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-guilaradev-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/guilherme-de-almeida-lara-6772a3177/" target="_blank">
+<a href="https://www.linkedin.com/in/guilherme-ribeiro-almeida-lara/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-guilaradev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/guilaradev" target="_blank">
+<a href="https://instagram.com/guiriblara" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-guilaradev-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-<br><br>
 <img width="500em" src="https://i.gifer.com/39Cg.gif" />
+<br><br>
+
 
