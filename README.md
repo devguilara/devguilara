@@ -3,55 +3,28 @@
 
 
 <br><br>
-<p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=devguilara&show_icons=true&theme=vision-friendly-dark" alt="devguilara stats"/>
+### Olá! Devs e recrutadores 👋
 
-<br><br>
+- ⚡ Me chamo Richard e moro em Belo Horizonte MG
+- 💬 Estou me graduando em Engenharia de Software e estou a procura de uma vaga de desenvolvedor Junior voltado para área de .Net
+- 🔭 Atualmente trabalho como analista de suporte
+- 🌱 Estou desenvolvendo projetos em .Net com foco em APIs e explorando ASP.Net, porém com conhecimento em JavaScript, HTML, CSS, Angular, SQL Server, Git
 
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devguilara&layout=compact&theme=vision-friendly-dark" alt="devguilara "/>
+##
+<div align= "center">
+<a href="https://github.com/Richard-Felipe">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Felipe&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Richard-Felipe&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+</div>
 
+## Ferramentas e Tecnologias
+ <img src="https://skillicons.dev/icons?i=cs,dotnet,javascript,html,css,angular,git,typescript,bootstrap"/>
 
-</p>
+##
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"/>
 
-<br><br>
+## Redes sociais
+<div>
+  <a href="https://www.linkedin.com/in/richard-felipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
-
-
-- 🔥 Desenvolvedor Front e Back-end
-
-- 👨‍💻 Veja meus projetos em: [guilhermerdev.io](https://devguilara.github.io/devguilara.io/) e meu [Linkedin](https://www.linkedin.com/in/guilaradev/)
-
-- 💬 Me pergunte sobre: ** JavaScript | PHP | Java | C# **
-
-- ⚡ Sempre em busca de novos conhecimentos 
-
-<br><br>
-
-## 🛠 &nbsp;Habilidades
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python.js](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![DOTNET](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.Net&logoColor=1572B6)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=1572B6)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
-
-<br><br>
-
-
-## 👨🏽‍🦲 &nbsp;Social
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/guilherme-ribeiro-almeida-lara/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-guilaradev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/guiriblara" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-guilaradev-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
-
-<br><br>
-
-<img width="500em" src="200w.gif" />
