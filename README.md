@@ -8,11 +8,11 @@
 
 ##
 <div align= "center">
-<a href="https://github.com/Richard-Felipe">
+<a href="https://github.com/devguilara">
 <img loading="lazy" height="auto" width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devguilara&layout=compact&langs_count=7&theme=dracula"/>
 
 ## Ferramentas e Tecnologias
- <img src="https://skillicons.dev/icons?i=java,spring,postgres,postman,nodejs"/>
+ <img src="https://skillicons.dev/icons?i=java,spring,postgres,postman,php"/>
 
 ##
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"/>
