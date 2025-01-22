@@ -11,7 +11,7 @@
 <img loading="lazy" height="auto" width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devguilara&layout=compact&langs_count=7&theme=dracula"/>
 
 ## Ferramentas e Tecnologias
- <img src="https://skillicons.dev/icons?i=postgres,postman,golang,mysql,nestjs,sqldeveloper"/>
+ <img src="https://skillicons.dev/icons?i=postgres,postman,golang,mysql,nestjs"/>
 
 ## Redes sociais
 <div>
