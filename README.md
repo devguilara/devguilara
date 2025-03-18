@@ -8,7 +8,7 @@
   
 <div align= "center">
 <a href="https://github.com/devguilara">
-[<img loading="lazy" height="auto" width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devguilara&layout=compact&langs_count=10&theme=dracula"/>]
+[<img loading="lazy" height="auto" width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devguilara&layout=compact&langs_count=4&theme=dracula"/>]
 ## Ferramentas e Tecnologias
  <img src="https://skillicons.dev/icons?i=postgres,postman,golang,mysql,nestjs,nextjs"/>
 
