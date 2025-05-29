@@ -7,8 +7,8 @@
 - 🌱 Estou desenvolvendo projetos em Java
   
 <div align= "center">
-<a href="https://github.com/devguilara">
-<img loading="lazy" height="auto" width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devguilara&layout=compact&langs_count=4&theme=dracula"/>
+![image](https://github.com/user-attachments/assets/1a9d29ee-bc77-44e9-a873-055b35350777)
+
 
  
  ## Ferramentas e Tecnologias
