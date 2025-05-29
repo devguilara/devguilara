@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devguilara&color=yellow" alt="Profile views" /> </p>
 
 - 🔭 Atualmente trabalho como analista de suporte 
-- 🌱 Estou desenvolvendo projetos em GoLang
+- 🌱 Estou desenvolvendo projetos em Java
   
 <div align= "center">
 <a href="https://github.com/devguilara">
@@ -12,7 +12,7 @@
 
  
  ## Ferramentas e Tecnologias
- <img src="https://skillicons.dev/icons?i=postgres,postman,golang,mysql,nestjs,nextjs"/>
+ <img src="https://skillicons.dev/icons?i=postgres,postman,java,spring-boot"/>
 
 ## Redes sociais
 <div>
