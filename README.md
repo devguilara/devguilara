@@ -7,9 +7,9 @@
 - 🌱 Estou desenvolvendo projetos em Java
   
 <div align= "center">
-![image](https://github.com/user-attachments/assets/1a9d29ee-bc77-44e9-a873-055b35350777)
-
-
+![devguilara's Stats](https://github-readme-stats.vercel.app/api?username=devguilara&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![devguilara's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devguilara&theme=vue-dark&hide_border=false)
+![devguilara's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devguilara&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
  
  ## Ferramentas e Tecnologias
  <img src="https://skillicons.dev/icons?i=postgres,postman,java,spring-boot"/>
