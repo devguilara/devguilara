@@ -6,7 +6,7 @@
 - 🔭 Atualmente trabalho como analista de suporte 
 - 🌱 Estou desenvolvendo projetos em Java
   
-<div align= "center">
+
 ## 📊 GitHub Stats
 
 ![devguilara's Stats](https://github-readme-stats.vercel.app/api?username=devguilara&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
