@@ -14,10 +14,6 @@
  ## Ferramentas e Tecnologias
  <img src="https://skillicons.dev/icons?i=postgres,postman,java,spring-boot"/>
 
-## Redes sociais
-<div>
-  <a href="https://www.linkedin.com/in/guilherme-ribeiro-almeida-lara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-    <a href="https://bsky.app/profile/devguilara.bsky.social" target="_blank"><img src="https://img.shields.io/badge/-BlueSky-%230077B5?style=for-the-badge&logo=bluesky&logoColor=white" target="_blank"></a>   
-</div>
+
 
 
